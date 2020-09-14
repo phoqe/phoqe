@@ -12,6 +12,6 @@ Watch YouTube, binge Netflix, and listen to Spotify with friends.
 
 ### Side Projects
 
-**[Havelock](https://github.com/phoqe/havelock)**: Extract accounts, cookies, and history from Chromium-based web browsers.
+**[Havelock](https://github.com/phoqe/havelock)**: Extract accounts, cookies, and history from Chromium-based web browsers. (Node.js)
 
-**TakeSafe**: Pharmacological predictions of administrated substances based on physical and environmental factors with realtime recommendations.
+**TakeSafe**: Pharmacological predictions of administrated substances based on physical and environmental factors with realtime recommendations. (Swift)
