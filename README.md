@@ -1,5 +1,3 @@
-Software, Mobile, and Web Developer with a passion for UI/UX, Material Design, and anything Apple.
-
 ### Main Projects
 
 #### [RMUIF](https://github.com/rmuif)
