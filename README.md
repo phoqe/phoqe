@@ -10,7 +10,7 @@ Supercharged version of Create React App with all the bells and whistles.
 
 Watch YouTube, binge Netflix, and listen to Spotify with friends.
 
-#### Side Projects
+### Side Projects
 
 **[Havelock](https://github.com/phoqe/havelock)**: Extract accounts, cookies, and history from Chromium-based web browsers.
 
