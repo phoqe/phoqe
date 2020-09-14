@@ -1,4 +1,4 @@
-### Intro
+## Intro
 
 Software, Mobile, and Web Developer with a passion for UI/UX, Material Design, and anything Apple.
 
