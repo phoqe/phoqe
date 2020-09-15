@@ -4,7 +4,7 @@
 
 Supercharged version of Create React App with all the bells and whistles.
 
-#### [Sync](https://sync.phoqe.com)
+#### [Sync](https://sync.phoqe.com) (Closed Alpha)
 
 Watch YouTube, binge Netflix, and listen to Spotify with friends.
 
