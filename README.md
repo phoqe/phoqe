@@ -1,3 +1,8 @@
+### Interests
+
+- Psychopharmacology
+- Health Technology
+
 ### Main Projects
 
 #### [RMUIF](https://github.com/rmuif)
