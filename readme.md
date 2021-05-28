@@ -9,6 +9,6 @@
 - **[Sync](https://sync.phoqe.com)**: Watch YouTube, binge Netflix, and listen to Spotify with friends.
 - **[Havelock](https://github.com/phoqe/havelock)**: Extract accounts, cookies, and history from Chromium-based web browsers.
 - **[Fackla](https://github.com/phoqe/fackla)**: Prevent work from tracking you.
-- **[Mulle](https://github.com/phoqe/fackla)**: Native Mecenat app emulator for iOS.
+- **[Mulle](https://github.com/phoqe/mulle)**: Native Mecenat app emulator for iOS.
 - **[Remmi](https://github.com/phoqe/remmi)**: Daily GitHub contributions in your macOS status bar.
 - **[Brand](https://github.com/phoqe/brand)**: The missing CLI for Firebase apps.
