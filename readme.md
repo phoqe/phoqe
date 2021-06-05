@@ -12,3 +12,4 @@
 - **[Mulle](https://github.com/phoqe/mulle)**: Native Mecenat app emulator for iOS.
 - **[Remmi](https://github.com/phoqe/remmi)**: Daily GitHub contributions in your macOS status bar.
 - **[Brand](https://github.com/phoqe/brand)**: The missing CLI for Firebase apps.
+- **[TakeSafe](https://github.com/phoqe/takesafe)**: Track drugs in your body.
