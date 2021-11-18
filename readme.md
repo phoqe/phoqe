@@ -13,3 +13,4 @@
 - **[Remmi](https://github.com/phoqe/remmi)**: Daily GitHub contributions in your macOS status bar.
 - **[Brand](https://github.com/phoqe/brand)**: The missing CLI for Firebase apps.
 - **[TakeSafe](https://github.com/phoqe/takesafe)**: Track drugs in your body.
+- **[Ogge](https://github.com/phoqe/Ogge)**: Convenient and efficient Swift wrapper for the Open Graph Protocol.
